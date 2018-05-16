@@ -37,7 +37,7 @@ angular
 
 <!-- Will work -->
 <my-component>
-  <important-component></important-component>
+  <important-component></important-component-is-mine>
 </my-component>
 
 <my-component>
